@@ -18,7 +18,3 @@ To modify the source code:
      ```
 
 2. Download all the files under this repository.
-
-To download the application itself:
-
-1. exe file
