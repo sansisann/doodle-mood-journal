@@ -19,7 +19,7 @@ To modify the source code:
 
 2. Download all the files under this repository.
 
-##In-App Screenshots:
+## In-App Screenshots:
 
 ![Doodles Mood Journal](images/ss1.png)   
 
