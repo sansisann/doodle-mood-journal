@@ -7,9 +7,9 @@ Doodle is a Python application built with Pygame for tracking and recording dail
 
 ## Installation
 
-To run the program and modify the source code, follow these steps:
+To modify the source code:
 
-1. Download and install the required modules:
+1. Download and install the pygame module.
 
    - Install the `pygame` module, which is used for the GUI, by running the following command in the terminal:
 
@@ -17,4 +17,8 @@ To run the program and modify the source code, follow these steps:
      pip3 install pygame
      ```
 
-2. ...
+2. Download all the files under this repository.
+
+To download the application itself:
+
+1. exe file
